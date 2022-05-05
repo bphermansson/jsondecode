@@ -19,7 +19,6 @@ int main(int argc, char *argv[])
     size_t i=0;
     json_error_t error;
     char *text;
-
     const char *key;
     json_t *obj, *root, *item;
     
